@@ -76,3 +76,5 @@ const d3 = await Promise.all([
   import("d3-geo-projection")
 ]).then(d3 => Object.assign({}, ...d3));
 ```
+
+- Change Log
